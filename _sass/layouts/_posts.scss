@@ -23,9 +23,9 @@ header {
   }
   .meta {
     color: rgba($text-color, .5);
-    font-size: 0.9em;
+    font-size: 0.8em;
     letter-spacing: 0.1em;
-    margin: 0;
+    margin: 1%;
     text-transform: uppercase;
   }
 }
@@ -60,6 +60,7 @@ header {
 
   .page-title {
     font-size: 1.2em;
+    letter-spacing: 0.2em;
     margin-bottom: 1em;
     width: 100%;
   }
@@ -78,4 +79,3 @@ header {
     vertical-align: middle;
   }
 }
-

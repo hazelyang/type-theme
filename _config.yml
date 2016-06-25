@@ -5,9 +5,9 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Hazel Yang
   avatar: avatar.png
-  gravatar: # Email MD5 hash
+  gravatar: "hazel@gitlab.com" # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
@@ -21,15 +21,15 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "hazelyuyang@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble:
+  dribbble: "huiyuy"
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: 
   google_plus:
-  instagram:
+  instagram: "hazelyuyang"
   linkedin:  # Full URL
   pinterest:
   reddit:
@@ -37,7 +37,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "hazelyuyang"
   wordpress:
   youtube:
 
