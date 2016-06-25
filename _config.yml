@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://www.hazelyang.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -8,7 +8,7 @@ theme:
   title: Hazel Yang
   avatar: avatar.png
   gravatar: "hazel@gitlab.com" # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Hazel is a UX designer who loves animal, food, travel, and design." # used by search engines
 
   # Header and footer text
   header_text: >
@@ -27,7 +27,7 @@ theme:
   dribbble: "huiyuy"
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram: "hazelyuyang"
   linkedin:  # Full URL
